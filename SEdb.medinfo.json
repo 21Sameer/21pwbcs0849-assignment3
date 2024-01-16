@@ -1,0 +1,702 @@
+[{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece23"
+  },
+  "name": "Novidat",
+  "formula": "Ciprofloxacin",
+  "price": "200 rs"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece24"
+  },
+  "name": "Zepro",
+  "formula": "Ciprofloxacin",
+  "Price": "400 rs"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece25"
+  },
+  "name": "Mercip",
+  "formula": "Ciprofloxacin",
+  "Price": "500 Rs"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece26"
+  },
+  "name": "Mytil",
+  "formula": "Ciprofloxacin",
+  "Price": 200
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece27"
+  },
+  "name": "augmentin",
+  "formula": "amoxicillin"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece28"
+  },
+  "name": "Adamox",
+  "formula": "amoxicillin"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece29"
+  },
+  "name": "Calamox",
+  "formula": "amoxicillin"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece2a"
+  },
+  "name": "Kmoxilin",
+  "formula": "amoxicillin"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece2b"
+  },
+  "name": "brexin",
+  "formula": "piroxicam-beta-cyclodextrin"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece2c"
+  },
+  "name": "Antixin",
+  "formula": "piroxicam-beta-cyclodextrin"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece2d"
+  },
+  "name": "Bexicam",
+  "formula": "piroxicam-beta-cyclodextrin"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece2e"
+  },
+  "name": "Felbex",
+  "formula": "piroxicam-beta-cyclodextrin"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece2f"
+  },
+  "name": "benzirin",
+  "formula": "benzydamine"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece30"
+  },
+  "name": "Citacol",
+  "formula": "benzydamine"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece31"
+  },
+  "name": "Eziclor",
+  "formula": "benzydamine"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece32"
+  },
+  "name": "Niflam",
+  "formula": "benzydamine"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece33"
+  },
+  "name": "beflam",
+  "formula": "diclofenac"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece34"
+  },
+  "name": "Antiflam",
+  "formula": "diclofenac"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece35"
+  },
+  "name": "Caflam",
+  "formula": "diclofenac"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece36"
+  },
+  "name": "Declam",
+  "formula": "diclofenac"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece37"
+  },
+  "name": "espra",
+  "formula": "esomeprazole"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece38"
+  },
+  "name": "Esso 20/40",
+  "formula": "esomeprazole"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece39"
+  },
+  "name": "Opril 20/40",
+  "formula": "esomeprazole"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece3a"
+  },
+  "name": "Ezomal 20/40 MG",
+  "formula": "esomeprazole"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece3b"
+  },
+  "name": "Nyloz 20/40 MG",
+  "formula": "esomeprazole"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece3c"
+  },
+  "name": "Ottozole",
+  "formula": "esomeprazole"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece3d"
+  },
+  "name": "Zespra",
+  "formula": "esomeprazole"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece3e"
+  },
+  "name": "concor",
+  "formula": "bisoprolol"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece3f"
+  },
+  "name": "Bisprol",
+  "formula": "bisoprolol"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece40"
+  },
+  "name": "Monocor",
+  "formula": "bisoprolol"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece41"
+  },
+  "name": "Safcor",
+  "formula": "bisoprolol"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece42"
+  },
+  "name": "cosome syp",
+  "formula": "bextromethorphan"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece43"
+  },
+  "name": "Pulmonal Syp",
+  "formula": "bextromethorphan"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece44"
+  },
+  "name": "Brodex Syp",
+  "formula": "bextromethorphan"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece45"
+  },
+  "name": "Acefyl Cough Syp ",
+  "formula": "bextromethorphan"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece46"
+  },
+  "name": "Zatofen Syp",
+  "formula": "bextromethorphan"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece47"
+  },
+  "name": "Hydurlin",
+  "formula": "bextromethorphan"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece48"
+  },
+  "name": "ascard",
+  "formula": "asprine"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece49"
+  },
+  "name": "Disprin",
+  "formula": "asprine"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece4a"
+  },
+  "name": "Loprin 50/75 Mg",
+  "formula": "asprine"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece4b"
+  },
+  "name": "Ecotrin",
+  "formula": "asprine"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece4c"
+  },
+  "name": "fortius",
+  "formula": "Rosuvastatin"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece4d"
+  },
+  "name": "Amsos",
+  "formula": "Rosuvastatin"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece4e"
+  },
+  "name": "Nenroz",
+  "formula": "Rosuvastatin"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece4f"
+  },
+  "name": "Rolip",
+  "formula": "Rosuvastatin"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece50"
+  },
+  "name": "Rouslin",
+  "formula": "Rosuvastatin"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece51"
+  },
+  "name": "laxoberon",
+  "formula": "Sodium Picosulphate"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece52"
+  },
+  "name": "Brilax",
+  "formula": "Sodium Picosulphate"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece53"
+  },
+  "name": "Softlax",
+  "formula": "Sodium Picosulphate"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece54"
+  },
+  "name": "Picoz",
+  "formula": "Sodium Picosulphate"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece55"
+  },
+  "name": "kkort",
+  "formula": "triamcinolone"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece56"
+  },
+  "name": "Eczium G",
+  "formula": "triamcinolone"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece57"
+  },
+  "name": "Kenacomb ",
+  "formula": "triamcinolone"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece58"
+  },
+  "name": "Lona-Cort",
+  "formula": "triamcinolone"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece59"
+  },
+  "name": "Azmacort",
+  "formula": "triamcinolone"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece5a"
+  },
+  "name": "lazma",
+  "formula": "fluocinolone"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece5b"
+  },
+  "name": "Dermo-Cream",
+  "formula": "fluocinolone"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece5c"
+  },
+  "name": "Flytro Cream",
+  "formula": "fluocinolone"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece5d"
+  },
+  "name": "Retrive",
+  "formula": "fluocinolone"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece5e"
+  },
+  "name": "levoxin",
+  "formula": "levofloxacin"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece5f"
+  },
+  "name": "Leflox 250/500/750 Mg",
+  "formula": "levofloxacin"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece60"
+  },
+  "name": "Alovic",
+  "formula": "levofloxacin"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece61"
+  },
+  "name": "Bexus",
+  "formula": "levofloxacin"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece62"
+  },
+  "name": "lexotanil",
+  "formula": "bromazepam"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece63"
+  },
+  "name": "Brolite",
+  "formula": "bromazepam"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece64"
+  },
+  "name": "Brozinil",
+  "formula": "bromazepam"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece65"
+  },
+  "name": "Lexapam",
+  "formula": "bromazepam"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece66"
+  },
+  "name": "ikodil",
+  "formula": "nicorandil",
+  "column1": [
+    "nicodil",
+    "nicoril",
+    "dycoral"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece67"
+  },
+  "name": "Nicodil",
+  "formula": "nicorandil"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece68"
+  },
+  "name": "Nicoril",
+  "formula": "nicorandil"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece69"
+  },
+  "name": "Dycoral",
+  "formula": "nicorandil"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece6a"
+  },
+  "name": "stmom",
+  "formula": "misoprostol",
+  "column1": [
+    "cytopan",
+    "distol",
+    "ismart"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece6b"
+  },
+  "name": "Cytopan",
+  "formula": "misoprostol"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece6c"
+  },
+  "name": "Distol",
+  "formula": "misoprostol"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece6d"
+  },
+  "name": "Ismart",
+  "formula": "misoprostol"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece6e"
+  },
+  "name": "sleanz",
+  "formula": "lansoprazole"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece6f"
+  },
+  "name": "D-Burn",
+  "formula": "lansoprazole"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece70"
+  },
+  "name": "Exazole",
+  "formula": "lansoprazole"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece71"
+  },
+  "name": "Indpro",
+  "formula": "lansoprazole"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece72"
+  },
+  "name": "tanzo",
+  "formula": "piperacillin"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece73"
+  },
+  "name": "Tazomax",
+  "formula": "piperacillin"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece74"
+  },
+  "name": "Combicin",
+  "formula": "piperacillin"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece75"
+  },
+  "name": "Tazop",
+  "formula": "piperacillin"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece76"
+  },
+  "name": "titain",
+  "formula": "ceftriaxone"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece77"
+  },
+  "name": "Rocephin 1GM / 500 IV",
+  "formula": "ceftriaxone"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece78"
+  },
+  "name": "Prezone inj",
+  "formula": "ceftriaxone"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece79"
+  },
+  "name": "Cefafin ",
+  "formula": "ceftriaxone"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece7a"
+  },
+  "name": "Brufen",
+  "formula": "ibuprofen",
+  "column1": [
+    "zofin",
+    "blufen"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece7b"
+  },
+  "name": "Zofin",
+  "formula": "ibuprofen"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece7c"
+  },
+  "name": "Blufen",
+  "formula": "ibuprofen"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece7d"
+  },
+  "name": "panadol",
+  "formula": "paracetamol"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece7e"
+  },
+  "name": "Panadol Extend ",
+  "formula": "paracetamol"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece7f"
+  },
+  "name": "Amsitol",
+  "formula": "paracetamol"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece80"
+  },
+  "name": "Astadol",
+  "formula": "paracetamol"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece81"
+  },
+  "name": "zetro",
+  "formula": "azithromycin",
+  "column1": [
+    "atizor",
+    "macrobac",
+    "macromax"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece82"
+  },
+  "name": "Atizor",
+  "formula": "azithromycin"
+},
+{
+  "_id": {
+    "$oid": "6594ed5348a396c2d6cece83"
+  },
+  "name": "Macrobac",
+  "formula": "azithromycin"
+}]
